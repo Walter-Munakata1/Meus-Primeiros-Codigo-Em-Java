@@ -26,5 +26,6 @@ public class teoriaServidor
         }
         System.out.println("O total de aditados é: " + totalAditados);
 
+        scanner.close();
     }
 }
